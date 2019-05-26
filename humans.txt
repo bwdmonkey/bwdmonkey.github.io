@@ -2,7 +2,7 @@
 
 # TEAM
 
-	Your name - your home
+	Tom Lee
 
 # TECHNOLOGY
 
