@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">bwdmonkey.github.io - <a href="http://bwdmonkey.dev">Live</a> · <a href="https://travis-ci.org/sergiokopplin/violet"><img src="https://travis-ci.org/sergiokopplin/violet.svg?branch=gh-pages" alt="Build Status" /></a></h2>
+    <h2 align="center">bwdmonkey.github.io - <a href="http://bwdmonkey.dev">Live</a> · <a href="https://travis-ci.org/bwdmonkey/bwdmonkey.github.io"><img src="https://travis-ci.org/bwdmonkey/bwdmonkey.github.io.svg?branch=master" alt="Build Status" /></a></h2>
 </p>
 
 <p align="center">A personal site for `bwdmonkey`</p>
@@ -24,6 +24,6 @@ bundle exec htmlproofer ./_site
 
 ## Problems?
 
-Tell me on github or open a [issue](https://github.com/bwdmonkey/bwdmonkey.github.io/issues/new).
+Tell me on github or open an [issue](https://github.com/bwdmonkey/bwdmonkey.github.io/issues/new).
 
 [MIT](http://bwdmonkey.mit-license.org/) License © Tom Lee
