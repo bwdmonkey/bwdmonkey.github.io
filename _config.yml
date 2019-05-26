@@ -1,20 +1,19 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Tom Lee
+bio: A Boy who obesses over caffeine and vanilla ice cream
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 picture: assets/images/picture.jpg
 
-url: http://koppl.in/violet
+url: http://bwdmonkey.dev
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+linkedin: leesw16
+github: bwdmonkey
+email: seungwon.tom.lee@gmail.com
 
 gems:
   - jekyll-seo-tag
