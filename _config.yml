@@ -1,11 +1,12 @@
 # main text of home
 name: Tom Lee
-bio: A Boy who obesses over caffeine and vanilla ice cream
+bio: A dev who obesses over caffeine and vanilla ice cream
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 picture: assets/images/picture.jpg
+image: assets/images/preview.png
 
 resume: assets/pdfs/resume.pdf
 
