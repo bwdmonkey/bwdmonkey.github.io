@@ -11,7 +11,7 @@
 ***
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bwdmonkey/bwdmonkey.github.io/master/violet.png" />
+    <img src="https://raw.githubusercontent.com/bwdmonkey/bwdmonkey.github.io/refs/heads/master/assets/images/preview.jpg" />
 </p>
 
 ## Tests
