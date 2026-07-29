@@ -1,2 +1,4 @@
 # for local testing
 url: http://localhost:4000
+plugins:
+  - jekyll-seo-tag
